@@ -1,1 +1,1 @@
-I used [gnuplot](http://www.gnuplot.info/) to draw thsi line plot. 
+I used [gnuplot](http://www.gnuplot.info/) to draw this line plot. 
